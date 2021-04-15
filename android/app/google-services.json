@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909237569873",
+    "project_id": "ppdbwikrama",
+    "storage_bucket": "ppdbwikrama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909237569873:android:5daa9c79f6c0aebf32eb70",
+        "android_client_info": {
+          "package_name": "com.example.latihan_us"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909237569873-v0pcl4kq1sfosksnm04eub0651jqp7r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2h3kRSlayk6aOPo-3kUPymUZiAPjjwD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909237569873-v0pcl4kq1sfosksnm04eub0651jqp7r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
